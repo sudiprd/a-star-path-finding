@@ -10,9 +10,13 @@ Running The code
 A-star
 
 Click on the blocks to place the start point/end point/walls
+
 Press space to start the algorithm
+
 Press c to clear all blocks
+
 press left click to remove one block
+
 The algorithm can run in one of two modes with Visualizer and without Visualizer
-with Visualizer mode is the one seen above in gif
+
 without Visualizer will find the path (blue line) without showing how it works and is almost instant
