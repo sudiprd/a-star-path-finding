@@ -5,7 +5,7 @@ A Python program to implement and visualize A-star Path Finding Algorithm intera
 About the Algorithm
 A-star (also referred to as A*) is one of the most successful search algorithms to find the shortest path between nodes or graphs. It is an informed search algorithm, as it uses information about path cost and also uses heuristics to find the solution.
 
-Running Code
+Running The code
 -Click on the blocks to place the start point/end point/walls
 -Press space to start the algorithm
 -Press c to clear all blocks
